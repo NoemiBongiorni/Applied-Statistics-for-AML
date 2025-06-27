@@ -34,22 +34,20 @@ cd Applied-Statistics-for-AML
 
 # Project
 
-**Objective:** analyze genomic datasets from AML patients using advanced statistical methods, with the goal of enhancing the predictive accuracy of disease classification based solely on gene expression profiles.
-
-**Dataset:** Bone marrow cells were collected from healthy donors, adult AML patients and pediatric AML patients, generating two datasets: the first one contains gene expression data with dimensions of 211,969 rows and 36,601 columns, while the second includes protein expression data from the same cells with dimensions of 211,969 rows and 61 columns
+**Objective:** analyze genomic datasets from AML patients using advanced statistical methods, with the goal of enhancing the predictive accuracy of disease classification based on gene and protein expression profiles.
 
 **Methodology:** 
-  - Dimentionality reduction with PCA
-  - ...
+  - Unsupervised Analysis for gene expression: k-means, hierarchical clustering with different distances and linkages, DBscan
+  - Supervised Analysis for gene expression: QDA, SVM
+  - Supervised Analysis for protein expression: Random Forest.
 
 # Results
-
-... 
+Identification of 179 marker genes and 21 discriminant proteins to succesfully classify samples.
 
 # Authors
 
 - Noemi Bongiorni ([@NoemiBongiorni](https://github.com/NoemiBongiorni))
 - Elisa Nordera ([@elisanordera](https://github.com/elisanordera))
-- Sara Redaelli 
+- Sara Redaelli ([@sararedaelli17](https://github.com/sararedaelli17))
 - Irene Rusconi ([@irenerusconi](https://github.com/irenerusconi))
 - Rachele Zanin ([@rachelezanin](https://github.com/rachelezanin))
