@@ -42,7 +42,7 @@ cd Applied-Statistics-for-AML
   - Supervised Analysis for protein expression: Random Forest.
 
 # Results
-Identification of 179 marker genes and 21 discriminant proteins to succesfully classify samples.
+Identification of 179 marker genes and 21 discriminant proteins to successfully classify samples.
 
 # Authors
 
