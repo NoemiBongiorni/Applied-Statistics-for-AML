@@ -49,7 +49,7 @@ cd Applied-Statistics-for-AML
 # Authors
 
 - Noemi Bongiorni ([@NoemiBongiorni](https://github.com/NoemiBongiorni))
-- Elisa Nordera
-- Sara Redaelli
+- Elisa Nordera ([@elisanordera](https://github.com/elisanordera))
+- Sara Redaelli 
 - Irene Rusconi
 - Rachele Zanin
