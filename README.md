@@ -48,6 +48,6 @@ Identification of 179 marker genes and 21 discriminant proteins to succesfully c
 
 - Noemi Bongiorni ([@NoemiBongiorni](https://github.com/NoemiBongiorni))
 - Elisa Nordera ([@elisanordera](https://github.com/elisanordera))
-- Sara Redaelli ([@sararedaelli17](https://github.com/sararedaelli17))
+- Sara Redaelli ([@sarareda17](https://github.com/sarareda17))
 - Irene Rusconi ([@irenerusconi](https://github.com/irenerusconi))
 - Rachele Zanin ([@rachelezanin](https://github.com/rachelezanin))
