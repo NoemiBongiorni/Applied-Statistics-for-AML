@@ -52,4 +52,4 @@ cd Applied-Statistics-for-AML
 - Elisa Nordera ([@elisanordera](https://github.com/elisanordera))
 - Sara Redaelli 
 - Irene Rusconi
-- Rachele Zanin
+- Rachele Zanin ([@rachelezanin](https://github.com/rachelezanin))
