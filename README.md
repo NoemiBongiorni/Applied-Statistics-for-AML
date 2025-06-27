@@ -51,5 +51,5 @@ cd Applied-Statistics-for-AML
 - Noemi Bongiorni ([@NoemiBongiorni](https://github.com/NoemiBongiorni))
 - Elisa Nordera ([@elisanordera](https://github.com/elisanordera))
 - Sara Redaelli 
-- Irene Rusconi
+- Irene Rusconi ([@irenerusconi](https://github.com/irenerusconi))
 - Rachele Zanin ([@rachelezanin](https://github.com/rachelezanin))
