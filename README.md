@@ -1,4 +1,4 @@
-![Project overview](./poster.png)
+![Project overview](./Poster.pdf)
 <!-- omit form toc -->
 # Applied-Statistics-for-AML
 
